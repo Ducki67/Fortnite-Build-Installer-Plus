@@ -28,7 +28,7 @@ Also all links to the Githubs, Websites, Discord servers,  are available in the 
 
 
 
-# ☞ Fortnite Build Installer 📌
+# ☞ Fortnite Build Installer 📌 (original)
 This program was made to aim Fortnite OG Community that want to download OG Fortnite Builds.
 **You will be able to download more easily and faster your *favorite builds* !**
 This Program was made **By Waslyl**
