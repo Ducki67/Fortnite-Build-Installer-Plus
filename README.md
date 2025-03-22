@@ -1,7 +1,9 @@
 
 # ☞ Fortnite Build-Installer(+) 
 More builds and Languages added by: **Ducki67** ✅
-ℹ️ *NOTE:* ‼️ I do NOT own this i, just made a "better" sort of version of the Installer that uses [FnBuilds github ](https://github.com/n6617x/Fortnitebuilds) and [GalaxiaFN website ](https://galaxiafn.co.uk) . ✅
+
+ℹ️ *NOTE:* ‼️ I do NOT own this i, just made a "better" sort of version of the Installer that uses [FnBuilds github ](https://github.com/n6617x/Fortnitebuilds) and [GalaxiaFN website ](https://galaxiafn.co.uk) archives . ✅
+
 Also all links to the Githubs, Websites, Discord servers,  are available in the Allpication too. ✅
 
 *Original CODE credits to:* **By Waslyl** 
