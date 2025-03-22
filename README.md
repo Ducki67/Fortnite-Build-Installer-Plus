@@ -6,8 +6,12 @@ More builds and Languages added by: **Ducki67** ✅
 
 Also all links to the Githubs, Websites, Discord servers,  are available in the Allpication too. ✅
 
+**Credits:**
 *Original CODE credits to:* **By Waslyl** 
+
 *Original REPO credits to:* **Shoqapique**
+
+
 
 
 **☞ Features Build-Installer(+)**
