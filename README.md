@@ -8,13 +8,18 @@ Also all links to the Githubs, Websites, Discord servers,  are available in the 
 *Original REPO credits to:* **Shoqapique**
 
 # ☞ FEATURES *Build-Installer(+)*
+
 🔳 - All downloadable Builds:*(starting from **OT6.5** up to **20.40** )*.
+
 🔳 - More Languages.
+
 🔳 - Credits and Information in the Application.
 
 **☞ TO DO**
 🔲 - "Website online" check.
+
 🔲 - Auto extractor for both RAR and ZIP files.
+
 🔲 - Add "Asian" languages (If needed)
 
 # REALESES *Build-Installer(+)*
