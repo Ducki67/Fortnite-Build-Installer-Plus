@@ -16,6 +16,7 @@ Also all links to the Githubs, Websites, Discord servers,  are available in the 
 🔳 - Credits and Information in the Application.
 
 **☞ TO DO**
+
 🔲 - "Website online" check.
 
 🔲 - Auto extractor for both RAR and ZIP files.
