@@ -31,6 +31,7 @@ Also all links to the Githubs, Websites, Discord servers,  are available in the 
 
 # REALESES *Build-Installer(+)*
 ⚠️ Coming soon. ⚠️
+*(For now you have to build this by yourself)*
 
 
 
