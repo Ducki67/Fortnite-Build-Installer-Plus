@@ -29,7 +29,7 @@ Also all links to the Githubs, Websites, Discord servers,  are available in the 
 
  **▢** - Add "Asian" languages (If needed)
 
-# REALESES *Build-Installer(+)*
+# REALESES *Build-Installer(➕)*
 - -  *Build-Insatller(+)* releases 
 
  - [*Version 1.0.0*](https://github.com/Ducki67/Fortnite-Build-Installer-Plus/releases/tag/Build-Insatller%2B)
