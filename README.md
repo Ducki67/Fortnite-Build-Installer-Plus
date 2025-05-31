@@ -6,6 +6,8 @@ More builds and Languages added by: **Ducki67** ✅
 
 Also all links to the Githubs, Websites, Discord servers,  are available in the Allpication too. ✅
 
+![FBI+ 2 nobg 250](https://github.com/user-attachments/assets/10d1d74d-6eda-416b-942a-691b967f2373)
+
 **Credits:**
 
 *Original CODE credits to:* **By Waslyl** | *Original REPO credits to:* **Shoqapique**
