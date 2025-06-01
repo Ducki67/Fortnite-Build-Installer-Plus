@@ -63,3 +63,7 @@ https://github.com/Shoqaratio/fortnite-build
 **All right are deserved by Waslyl and Shoqapique**, you can use it for your own purpose but please *credit:* **By Waslyl** and **Shoqapique** 😁
 There's 🧾***MIT license***🧾 too, don't try to skid ☺️
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Ducki67/Fortnite-Build-Installer-Plus&type=Date)](https://www.star-history.com/#Ducki67/Fortnite-Build-Installer-Plus&Date)
