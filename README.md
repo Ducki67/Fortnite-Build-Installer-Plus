@@ -31,12 +31,16 @@ Also all links to the Githubs, Websites, Discord servers,  are available in the 
 
  **▢** - Add "Asian" languages (If needed)
 
-# REALESES *Build-Installer(➕)*
-- -  *Build-Insatller(+)* releases 
-
- - [*Version 1.0.0*](https://github.com/Ducki67/Fortnite-Build-Installer-Plus/releases/tag/Build-Insatller%2B)
-
- - [ *other chapter support  v.1.0.1 *]
+# RELEASES *Build-Installer(➕)*
+>- - ***Build-Insatller(+) releases***
+>
+>
+> - - ***Pre-release v.1.0.0***
+>- [*Version 1.0.0*](https://github.com/Ducki67/Fortnite-Build-Installer-Plus/releases/tag/Build-Insatller%2B) - Pre-release / 1st version of (+)
+>
+>
+> - - ***Latest v.1.0.1***
+> - [*Version 1.0.1*](https://github.com/Ducki67/Fortnite-Build-Installer-Plus/releases/tag/Build-Insatller(%2B)) - Other Chapter support update!
 
 
 
