@@ -35,12 +35,13 @@ Also all links to the Githubs, Websites, Discord servers,  are available in the 
 >- - ***Build-Insatller(+) releases***
 >
 >
-> - - ***Pre-release v.1.0.0***
->- [*Version 1.0.0*](https://github.com/Ducki67/Fortnite-Build-Installer-Plus/releases/tag/Build-Insatller%2B) - Pre-release / 1st version of (+)
+> - - ***~~Pre-release v.1.0.0~~*** No longer works
+>- [*~~Version 1.0.0~~*](https://github.com/Ducki67/Fortnite-Build-Installer-Plus/releases/tag/Build-Insatller%2B) - Pre-release / 1st version of (+)
 >
 >
-> - - ***Latest v.1.0.1***
-> - [*Version 1.0.1*](https://github.com/Ducki67/Fortnite-Build-Installer-Plus/releases/tag/Build-Insatller(%2B)) - Other Chapter support update!
+> - - ***~~v.1.0.1~~*** No longer work
+> - [~~*Version 1.0.1*~~](https://github.com/Ducki67/Fortnite-Build-Installer-Plus/releases/tag/Build-Insatller(%2B)) - Other Chapter support update!
+> - - UPDATE SOON!
 
 
 
